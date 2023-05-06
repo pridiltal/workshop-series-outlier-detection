@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://retina-studio.netlify.app/about.html</loc>
+    <lastmod>2023-05-06T14:29:41.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://retina-studio.netlify.app/blog.html</loc>
+    <lastmod>2023-05-06T14:29:41.798Z</lastmod>
+  </url>
+  <url>
+    <loc>https://retina-studio.netlify.app/index.html</loc>
+    <lastmod>2023-05-06T14:29:42.657Z</lastmod>
+  </url>
+  <url>
+    <loc>https://retina-studio.netlify.app/posts/post-with-code/index.html</loc>
+    <lastmod>2023-05-06T14:29:43.449Z</lastmod>
+  </url>
+  <url>
+    <loc>https://retina-studio.netlify.app/posts/welcome/index.html</loc>
+    <lastmod>2023-05-06T14:29:44.130Z</lastmod>
+  </url>
+</urlset>

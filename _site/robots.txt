@@ -1,0 +1,1 @@
+Sitemap: https://retina-studio.netlify.app/sitemap.xml
